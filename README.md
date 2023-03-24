@@ -1,7 +1,7 @@
 # README
 
 This repository is a reproduction for this issue over at Cypress side:
-https://github.com/cypress-io/cypress/issues/
+https://github.com/cypress-io/cypress/issues/26208
 
 To reproduce this issue we select all checked checkboxes and uncheck them.
 
