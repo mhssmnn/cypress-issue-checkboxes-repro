@@ -1,0 +1,6 @@
+# npm
+/node_modules
+
+# Never commit Cypress generated videos or screenshots to repository
+/cypress/screenshots
+/cypress/videos
